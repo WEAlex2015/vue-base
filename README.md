@@ -1,4 +1,4 @@
-# iView-project
+# vue-project-base
 
 This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
 
